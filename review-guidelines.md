@@ -42,6 +42,7 @@ More info on [JS Police](http://jspolice.com), especially this [post](http://jsp
 - Are there feature branches?
 - Release branches, hotfix?
 - Number of stars, forks and watches?
+- Any pull requests?
 
 ### The Code
 
