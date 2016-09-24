@@ -33,7 +33,7 @@ More info on [JS Police](http://jspolice.com), especially this [post](http://jsp
 - Are there many issues?
 - Are they swiftly responded to?
 - Are the issues labeled?
-- Number of contributor?
+- Number of contributors?
 
 ### Git
 
