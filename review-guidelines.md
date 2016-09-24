@@ -14,7 +14,7 @@ More info on [JS Police](http://jspolice.com), especially this [post](http://jsp
 ### GitHub Page / Docs:
 
 - Is there a description in the top?
-- Is there a link to an example / demo?
+- Is there a link to a project's website?
 - Does the Readme display a nice typography rhythm in terms of titles and subtitles?
 - Does the Readme contain a short description of what the library does?
 - Does the Readme contain documentation about the API?
