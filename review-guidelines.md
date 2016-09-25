@@ -58,15 +58,14 @@ More info on [JS Police](http://jspolice.com), especially this [post](http://jsp
 - Is code consistently formated?
 - Does code follow a style guide?
 - Are there meaningful comments?
-- Is there a config / options object
+- Is there a config / options object?
 - Does the code depend on any external libraries?
 - Does it play well with other libraries? (overriding _ or $, noConflict method)
 - Does it use OO js?
 - Are there any design patterns used?
 - Do CSS class names refer to the function in the page (img-caption), and not form (bold-red) or content (pink-elephant)?
 - Correctness - Does the code do everything it claims?
-- Complexity -Does it accomplish its goals in a straightforward way?
+- Complexity - Does it accomplish its goals in a straightforward way?
 - Consistency - Does it achieve its goals consistently?
 - Maintainability - Could the code be easily extended by another member of the team with a reasonable level of effort?
 - Scalability - Is the code written in such a way that it would work for both 100 users and 10,000? Is it optimized?
-- Style - Does the code adhere to a particular style guide (preferably one agreed upon by the team if the project is collaborative)?
